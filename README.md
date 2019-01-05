@@ -14,3 +14,4 @@ the Travis build before the build will go green.
 
 The winner is the first player where a master build (run in response
 to merging a PR) fails, saying they're the winner.
+ignore me
